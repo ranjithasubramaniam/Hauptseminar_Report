@@ -1,5 +1,5 @@
 # Hauptseminar_Report
-A report on research topic **"Depth estimation from stereo camera based on Convolutional Neural Networks"**
+A report on the research topic **"Depth estimation from stereo camera based on Convolutional Neural Networks"**
 
 ## Abstract:
 Depth estimation from the two-dimensinal images has several applications and this 
